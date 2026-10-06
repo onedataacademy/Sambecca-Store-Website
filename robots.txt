@@ -1,0 +1,3 @@
+# Review build. Keep search indexing disabled until the real catalogue and policies are approved.
+User-agent: *
+Disallow: /
